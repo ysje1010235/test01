@@ -1,0 +1,5 @@
+@import 'base.css';
+#boxes{text-align: center; position: relative;}
+#boxes>img{ width: 100%; max-width: 1200px;}
+h1{position: absolute; left: 50%;  top: 50%; transform: translate(-50%,-50%); font-size: 8vw}
+
